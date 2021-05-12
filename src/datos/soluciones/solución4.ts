@@ -1,0 +1,75 @@
+/* 4:  Cada jugador tiene sus campeones preferidos a la hora de jugar, pero segun dichos gustos y preferencias, ¿qué campeones son los más jugados o elegidos como mejores opciones?
+
+{ "_id" : "Rell", "Veces_jugadas" : 8 }
+{ "_id" : "Gragas", "Veces_jugadas" : 7 }
+{ "_id" : "Gnar", "Veces_jugadas" : 7 }
+{ "_id" : "Hecarim", "Veces_jugadas" : 7 }
+{ "_id" : "Lillia", "Veces_jugadas" : 7 }
+{ "_id" : "Kai'sa", "Veces_jugadas" : 7 }
+{ "_id" : "Alistar", "Veces_jugadas" : 6 }
+{ "_id" : "Azir", "Veces_jugadas" : 5 }
+{ "_id" : "Tristana", "Veces_jugadas" : 5 }
+{ "_id" : "Nautilus", "Veces_jugadas" : 4 }
+{ "_id" : "Senna", "Veces_jugadas" : 4 }
+{ "_id" : "Seraphine", "Veces_jugadas" : 4 }
+{ "_id" : "Olaf", "Veces_jugadas" : 4 }
+{ "_id" : "Ryze", "Veces_jugadas" : 4 }
+{ "_id" : "Orianna", "Veces_jugadas" : 3 }
+{ "_id" : "Sett", "Veces_jugadas" : 3 }
+{ "_id" : "Galio", "Veces_jugadas" : 3 }
+{ "_id" : "Thresh", "Veces_jugadas" : 3 }
+{ "_id" : "Camille", "Veces_jugadas" : 2 }
+{ "_id" : "Viktor", "Veces_jugadas" : 2 }
+{ "_id" : "Dr.Mundo", "Veces_jugadas" : 2 }
+{ "_id" : "Sion", "Veces_jugadas" : 2 }
+{ "_id" : "Zoe", "Veces_jugadas" : 2 }
+{ "_id" : "Tahm Kench", "Veces_jugadas" : 2 }
+{ "_id" : "Xayah", "Veces_jugadas" : 2 }
+{ "_id" : "Aphelios", "Veces_jugadas" : 2 }
+{ "_id" : "Udyr", "Veces_jugadas" : 2 }
+{ "_id" : "Nidalee", "Veces_jugadas" : 2 }
+{ "_id" : "Gangplank", "Veces_jugadas" : 2 }
+{ "_id" : "Sylas", "Veces_jugadas" : 2 }
+{ "_id" : "Syndra", "Veces_jugadas" : 2 }
+{ "_id" : "Urgot", "Veces_jugadas" : 2 }
+{ "_id" : "Cho'gath", "Veces_jugadas" : 2 }
+{ "_id" : "Jhin", "Veces_jugadas" : 2 }
+{ "_id" : "Ezreal", "Veces_jugadas" : 2 }
+{ "_id" : "Leona", "Veces_jugadas" : 2 }
+{ "_id" : "Rakan", "Veces_jugadas" : 2 }
+{ "_id" : "Renekton", "Veces_jugadas" : 2 }
+{ "_id" : "Caitlyn", "Veces_jugadas" : 2 }
+{ "_id" : "Phanteon", "Veces_jugadas" : 1 }
+{ "_id" : "Graves", "Veces_jugadas" : 1 }
+{ "_id" : "Karma", "Veces_jugadas" : 1 }
+{ "_id" : "Lux", "Veces_jugadas" : 1 }
+{ "_id" : "Volibear", "Veces_jugadas" : 1 }
+{ "_id" : "Malphite", "Veces_jugadas" : 1 }
+{ "_id" : "Qiyana", "Veces_jugadas" : 1 }
+{ "_id" : "Lulu", "Veces_jugadas" : 1 }
+{ "_id" : "Jinx", "Veces_jugadas" : 1 }
+{ "_id" : "Kayn", "Veces_jugadas" : 1 }
+{ "_id" : "Braum", "Veces_jugadas" : 1 }
+{ "_id" : "Bardo", "Veces_jugadas" : 1 }
+{ "_id" : "Lucian", "Veces_jugadas" : 1 }
+{ "_id" : "Taliyah", "Veces_jugadas" : 1 }
+{ "_id" : "Morgana", "Veces_jugadas" : 1 }
+{ "_id" : "Kalista", "Veces_jugadas" : 1 }
+{ "_id" : "Pantheon", "Veces_jugadas" : 1 }
+{ "_id" : "Kayle", "Veces_jugadas" : 1 }
+{ "_id" : "Ekko", "Veces_jugadas" : 1 }
+{ "_id" : "Skarner", "Veces_jugadas" : 1 }
+{ "_id" : "Aatrox", "Veces_jugadas" : 1 }
+{ "_id" : "Samira", "Veces_jugadas" : 1 }
+{ "_id" : "Kha'zix", "Veces_jugadas" : 1 }
+{ "_id" : "Nocturne", "Veces_jugadas" : 1 }
+{ "_id" : "Taric", "Veces_jugadas" : 1 }
+{ "_id" : "Yone", "Veces_jugadas" : 1 }
+{ "_id" : "Yasuo", "Veces_jugadas" : 1 }
+{ "_id" : "Cassiopeia", "Veces_jugadas" : 1 }
+{ "_id" : "Miss Fortune", "Veces_jugadas" : 1 }
+{ "_id" : "Akali", "Veces_jugadas" : 1 }
+{ "_id" : "Shaco", "Veces_jugadas" : 1 }
+{ "_id" : "Ornn", "Veces_jugadas" : 1 }
+
+*/
